@@ -1,0 +1,7 @@
+logging:
+  level:
+    com.nemesismate.piksel: INFO
+trial:
+  db:
+    studios: "classpath:db/studios.json"
+    episodes: "classpath:db/episodes.json"
