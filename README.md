@@ -20,7 +20,7 @@ The services we provide to the requester (API-client) can be separated in three 
 
 ## The technologies
 
-The main tech-stack is: **SpringBoot + WebFlux**
+The main tech-stack is: **Java 10 + SpringBoot + WebFlux**
 
 Additionally, some tools are being used:
 
@@ -28,6 +28,14 @@ Additionally, some tools are being used:
 
 
 ## Try-it yourself
+
+#### Tests
+
+You can launch the test with ease:
+```
+$ ./gradlew test
+```
+
 
 #### Execution
 
