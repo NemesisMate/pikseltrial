@@ -25,6 +25,7 @@ The main tech-stack is: **Java 10 + SpringBoot + WebFlux**
 Additionally, some tools are being used:
 
 * H2 (for an in-memory db)
+* Lombok
 
 
 ## Try-it yourself
